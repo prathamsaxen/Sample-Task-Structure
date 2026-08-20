@@ -5,8 +5,8 @@ This is the sample task structure used for our internal organisation structure t
 ## Task Repository Links
 
 
-| Task Name          | Companies Supported | GitHub Repo Link                                                                                               |
-| ------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Terminal Bench 2.0 | Handshake           | [https://github.com/prathamsaxen/Sample-Task-Structure](https://github.com/prathamsaxen/Sample-Task-Structure) |
+| Task Name          | Companies Supported | GitHub Repo Link                                                                                                                                                                             |
+| ------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Terminal Bench 2.0 | Handshake           | [https://github.com/prathamsaxen/Sample-Task-Structure/tree/main/Terminal-Bench-2.0-Codefeast](https://github.com/prathamsaxen/Sample-Task-Structure/tree/main/Terminal-Bench-2.0-Codefeast) |
 
 
