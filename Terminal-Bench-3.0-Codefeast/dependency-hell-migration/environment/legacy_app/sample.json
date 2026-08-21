@@ -1,0 +1,10 @@
+{
+  "id": "Q-1007",
+  "customer": "Acme <Labs>",
+  "tax_rate": "0.08",
+  "items": [
+    {"sku": "bolt-m6", "qty": 12, "unit": "1.255"},
+    {"sku": "washer", "qty": 24, "unit": "0.105"},
+    {"sku": "nut-nyloc", "qty": 12, "unit": "0.340"}
+  ]
+}

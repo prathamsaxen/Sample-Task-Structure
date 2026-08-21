@@ -112,6 +112,28 @@ Typical miss modes (agent-side, not verifier bugs):
 
 Verifier / task-spec defects on that run: **0**. Oracle always 1.0 → solvable. Nop always 0.0 → not a free grade.
 
+### Sample task failure screenshots
+
+Harbor agent-trial captures from the same pass@8 calibration (one per task). Images are hosted on Drive; GitHub will render them if the files are shared as “Anyone with the link”.
+
+| Task | Screenshot |
+|------|------------|
+| [`goertzel-banktones`](goertzel-banktones/) | [task_1](https://drive.google.com/file/d/1504DNe1cZnYBw7I7FYYR8Bg6oS2ByrWb/view?usp=drive_link) |
+| [`wvd-tfpeaks`](wvd-tfpeaks/) | [task_2](https://drive.google.com/file/d/1nvN1kVXVh6aAlgrD2F4zQLa7dz4S0eZp/view?usp=drive_link) |
+| [`chirpz-gridlines`](chirpz-gridlines/) | [task_3](https://drive.google.com/file/d/1QadBYRdsqS1p3tLKX1djR2oO_sxpGykq/view?usp=drive_link) |
+| [`bt-correlogram`](bt-correlogram/) | [task_4](https://drive.google.com/file/d/147lT3Ui3bq99ysCovWLnTcM77uVJ7a3x/view?usp=drive_link) |
+| [`wvd-sonar-lattice`](wvd-sonar-lattice/) | [task_5](https://drive.google.com/file/d/1RjyE6k1UC6YBzULO_XuiN35MmIbvArxd/view?usp=drive_link) |
+
+![goertzel-banktones failure](https://drive.google.com/uc?export=view&id=1504DNe1cZnYBw7I7FYYR8Bg6oS2ByrWb)
+
+![wvd-tfpeaks failure](https://drive.google.com/uc?export=view&id=1nvN1kVXVh6aAlgrD2F4zQLa7dz4S0eZp)
+
+![chirpz-gridlines failure](https://drive.google.com/uc?export=view&id=1QadBYRdsqS1p3tLKX1djR2oO_sxpGykq)
+
+![bt-correlogram failure](https://drive.google.com/uc?export=view&id=147lT3Ui3bq99ysCovWLnTcM77uVJ7a3x)
+
+![wvd-sonar-lattice failure](https://drive.google.com/uc?export=view&id=1RjyE6k1UC6YBzULO_XuiN35MmIbvArxd)
+
 ### Compliance (TB 2.0 / Harbor)
 
 | Rule | How this pack meets it |
