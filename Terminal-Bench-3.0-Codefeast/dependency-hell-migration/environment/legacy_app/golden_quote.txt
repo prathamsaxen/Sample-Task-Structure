@@ -1,0 +1,10 @@
+QUOTE Q-1007
+Customer: Acme &lt;Labs&gt;
+
+- bolt-m6 x12 @ 1.26 = 15.12
+- washer x24 @ 0.11 = 2.64
+- nut-nyloc x12 @ 0.34 = 4.08
+
+Subtotal: 21.84
+Tax: 1.75
+Total: 23.59
